@@ -1,0 +1,3 @@
+Name : Amit Dhane 
+study in 1st year of engineering 
+commit : it is my second commit
